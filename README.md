@@ -17,6 +17,6 @@ npm install
 1. Inicia la aplicación en modo de desarrollo:
 npm run dev
 
-2.Abre tu navegador web y accede a [http://localhost:5173](http://localhost:5173) o en la liga que indique la linea de comandos para ver la aplicación en acción.
+2. Abre tu navegador web y accede a [http://localhost:5173](http://localhost:5173) o en la liga que indique la linea de comandos para ver la aplicación en acción.
 
 3. Explora el listado de personajes de Harry Potter que aspiran a ingresar a Hogwarts.
