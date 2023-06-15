@@ -4,7 +4,7 @@ Este proyecto es una prueba técnica desarrollada en React JS con Vite.js, que c
 
 ## Instalación
 1. Clona este repositorio en tu máquina local:
-git clone [https://github.com/TuUsuario/nombre-del-repositorio.git](https://github.com/ArtthurAlarcon/prueba-tecnica-occ.git)
+git clone [https://github.com/ArtthurAlarcon/prueba-tecnica-occ.git](https://github.com/ArtthurAlarcon/prueba-tecnica-occ.git)
 
 
 2. Navega hasta el directorio del proyecto:
